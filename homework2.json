@@ -1,17 +1,17 @@
 {
-  "Shengwei_Zhao": {
+  "host": {
     "personal_info": {
       "name": {
         "country": "China",
-        "text": "Shengwei Zhao"
+        "text": "host"
       },
-      "age": "24",
+      "age": "29",
       "gender": "male"
     },
     "education_background": {
       "degree": "master",
-      "university": "University of Pennsylvania",
-      "major": "Computer Networking and Telecommunications",
+      "university": "University",
+      "major": "Computer",
       "courses_2013fall": {
         "course": [
           {
