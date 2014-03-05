@@ -1,4 +1,4 @@
-<!ELEMENT Shengwei_Zhao (personal_info, education_background, personal_interests?)>
+<!ELEMENT host (personal_info, education_background, personal_interests?)>
 
 <!ELEMENT personal_info (name, age, gender)>
 <!ELEMENT education_background (degree, university, major, courses_2013fall)>
