@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+<channel>
+  <title>University of Pennsylvania Official Website</title>
+  <link>http://www.upenn.edu/</link>
+  <description>Ivy League University, one of the most famous institutions around the world</description>
+
+  <category>Higher Education</category>
+
+ <item>
+    <title>The school of engineering and applied science of Penn</title>
+    <link>http://www.seas.upenn.edu/</link>
+    <description>The school of engineering and applied science of Penn </description>
+  </item>
+
+<item>
+    <title>The School of Arts and Sciences of Penn</title>
+    <link>http://www.sas.upenn.edu/</link>
+    <description>The School of Arts and Sciences of Penn </description>
+  </item>
+
+  <item>
+    <title>Annenberg School for Communication of Penn</title>
+    <link>http://www.asc.upenn.edu/home.aspx</link>
+    <description>Annenberg School for Communication of Penn</description>
+  </item>
+
+   <item>
+    <title>Penn Design</title>
+    <link>http://www.design.upenn.edu/</link>
+    <description>Penn Design</description>
+  </item>
+
+<image>
+  <url>http://wolverines.belenjesuit.org/modelunitednations/upenn2007/images/36.%20University%20of%20Pennsylvania%20logo.jpg</url>
+  <title>University of Pennsylvania Official Website</title>
+  <link>http://www.upenn.edu/</link>
+</image>
+
+</channel>
+
+</rss>

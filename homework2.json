@@ -1,0 +1,35 @@
+{
+  "Shengwei_Zhao": {
+    "personal_info": {
+      "name": {
+        "country": "China",
+        "text": "Shengwei Zhao"
+      },
+      "age": "24",
+      "gender": "male"
+    },
+    "education_background": {
+      "degree": "master",
+      "university": "University of Pennsylvania",
+      "major": "Computer Networking and Telecommunications",
+      "courses_2013fall": {
+        "course": [
+          {
+            "type": "mandatory",
+            "text": "TCOM 514"
+          },
+          {
+            "type": "selective",
+            "text": "EAS 546"
+          }
+        ]
+      }
+    },
+    "personal_interests": {
+      "favorite_movie": "Harry Potter",
+      "favorite_author": "J K. Rowling",
+      "favorite_city": "Philadelphia",
+      "favorite_computer": "Macbook Pro"
+    }
+  }
+}

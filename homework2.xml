@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="homework2.xsl"?>
+
+<!DOCTYPE Shengwei_Zhao SYSTEM "Shengwei_Zhao.dtd">
+<Shengwei_Zhao >
+
+	<personal_info>
+		<name country="China">Shengwei Zhao</name>
+		<age>24</age>
+		<gender>male</gender>
+	</personal_info>
+	
+	<education_background >
+  		<degree >master</degree> 
+  		<university>University of Pennsylvania</university> 
+  		<major>Computer Networking and Telecommunications</major> 
+  		<courses_2013fall>
+  			<course type="mandatory">TCOM 514</course>
+  			<course type="selective">EAS 546</course>
+  		</courses_2013fall>      
+	</education_background>
+
+	<personal_interests >
+  		<favorite_movie >Harry Potter</favorite_movie> 
+  		<favorite_author>J K. Rowling</favorite_author> 
+  		<favorite_city>Philadelphia</favorite_city> 
+  		<favorite_computer>Macbook Pro</favorite_computer> 
+	</personal_interests>
+
+</Shengwei_Zhao>
+
+
+
+

@@ -1,0 +1,25 @@
+<!ELEMENT Shengwei_Zhao (personal_info, education_background, personal_interests?)>
+
+<!ELEMENT personal_info (name, age, gender)>
+<!ELEMENT education_background (degree, university, major, courses_2013fall)>
+<!ELEMENT personal_interests (favorite_movie, favorite_author, favorite_city?, favorite_computer?)>
+
+<!ELEMENT courses_2013fall (course+)>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT degree (#PCDATA)>
+<!ELEMENT university (#PCDATA)>
+<!ELEMENT major (#PCDATA)>
+<!ELEMENT course (#PCDATA)>
+<!ELEMENT favorite_movie (#PCDATA)>
+<!ELEMENT favorite_author (#PCDATA)>
+<!ELEMENT favorite_city (#PCDATA)>
+<!ELEMENT favorite_computer (#PCDATA)>
+<!ATTLIST course type CDATA #REQUIRED >
+<!ATTLIST name country CDATA #FIXED "China">
+
+
+
+
