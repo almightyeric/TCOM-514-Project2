@@ -6,14 +6,14 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <rdf:Description
  rdf:about="http://localhost/~almightyeric/homework2.xml">
 
-    <homework2:Shengwei_Zhao>
-      <homework2:name country="China">Shengwei Zhao</homework2:name>
-      <homework2:age>24</homework2:age>
+    <homework2:host>
+      <homework2:name country="China">host</homework2:name>
+      <homework2:age>29</homework2:age>
     <homework2:gender>male</homework2:gender>
 
       <homework2:education_background>
         <homework2:degree>master</homework2:degree>
-        <homework2:university >University of Pennsylvania</homework2:university>
+        <homework2:university >University</homework2:university>
       </homework2:education_background>
 
       <homework2:personal_interests>
@@ -22,6 +22,6 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
         <homework2:favorite_city>Philadelphia</homework2:favorite_city>
         <homework2:favorite_computer>Macbook Pro</homework2:favorite_computer>
       </homework2:personal_interests>
-    </homework2:Shengwei_Zhao>
+    </homework2:host>
   </rdf:Description>
 </rdf:RDF>
