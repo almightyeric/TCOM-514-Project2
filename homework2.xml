@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="homework2.xsl"?>
 
-<!DOCTYPE Shengwei_Zhao SYSTEM "Shengwei_Zhao.dtd">
-<Shengwei_Zhao >
+<!DOCTYPE host SYSTEM "homework2.dtd">
+<host>
 
 	<personal_info>
-		<name country="China">Shengwei Zhao</name>
-		<age>24</age>
+		<name country="China">host</name>
+		<age>29</age>
 		<gender>male</gender>
 	</personal_info>
 	
 	<education_background >
   		<degree >master</degree> 
-  		<university>University of Pennsylvania</university> 
-  		<major>Computer Networking and Telecommunications</major> 
+  		<university>University</university> 
+  		<major>Computer</major> 
   		<courses_2013fall>
   			<course type="mandatory">TCOM 514</course>
   			<course type="selective">EAS 546</course>
@@ -27,7 +27,7 @@
   		<favorite_computer>Macbook Pro</favorite_computer> 
 	</personal_interests>
 
-</Shengwei_Zhao>
+</host>
 
 
 
